@@ -1,0 +1,8 @@
+{
+    "type": "record",
+    "name": "cpx",
+    "fields": [
+        {"name": "re", "type": "double", "default": 0.5},
+        {"name": "im", "type": "double", "default": 0.8}
+    ]
+}
